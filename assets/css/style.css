@@ -1,0 +1,21 @@
+#icons {
+    float: left;
+    margin-right: 5px;
+    height: auto;
+    width: 33.33%;
+    max-width: 80px;
+}
+
+#portfolio {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: auto;
+    width: 50%;
+    max-width: 300px;
+}
+
+body {
+    color: lightgray;
+    background-image: url(../images/ep_naturalblack.png);
+}
